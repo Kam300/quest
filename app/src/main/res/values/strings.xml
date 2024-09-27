@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mykamil</string>
+    <string name="button_skip">Пропустить</string>
+    <string name="current">Верно!</string>
+    <string name="button_con">Продолжить</string>
+    <string name="image_question_desc">Описание изображения</string>
+</resources>
